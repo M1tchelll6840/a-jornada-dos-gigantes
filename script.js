@@ -6,10 +6,10 @@
    Não espalhe links no HTML.
    ============================================================================ */
 const CHECKOUT = {
-  livro1: '#', // O Reino da Carne — R$ 29,90
-  livro2: '#', // O Reino da Alma — R$ 27,90
-  livro3: '#', // O Reino do Espírito — R$ 27,90
-  combo: '#'   // Trilogia completa — R$ 59,90
+  livro1: 'https://pay.kiwify.com.br/ti79KUS', // O Reino da Carne — R$ 29,90
+  livro2: 'https://pay.kiwify.com.br/LGNbNSM', // O Reino da Alma — R$ 27,90
+  livro3: 'https://pay.kiwify.com.br/iIdQ9F2', // O Reino do Espírito — R$ 27,90
+  combo: 'https://pay.kiwify.com.br/9RGtZMR'   // Trilogia completa — R$ 59,90
 };
 
 (function () {
